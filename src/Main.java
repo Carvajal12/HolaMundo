@@ -1,4 +1,4 @@
-package com.sofka;
+
 
 import java.util.Scanner;
 
@@ -12,6 +12,7 @@ public class Main {
         System.out.println("digite su primer numero");
         numero1 = input.nextInt();
         System.out.println("resultado: " + (numero1 * PI) );
+
 
     }
 }
